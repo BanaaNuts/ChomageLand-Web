@@ -1,4 +1,34 @@
 site_name: ChômageLand
-site_url: https://crouton.net
+site_url: https://banaanuts.github.io/ChomageLand-Web/
 
-theme: material
+repo_url: https://github.com/BanaaNuts/ChomageLand-Web
+repo_name: BanaaNuts/ChomageLand-Web
+edit_uri: edit/main/docs/
+
+
+nav:
+    - 'Accueil': 'index.md'
+    - 'Général': 'general.md'
+    - 'Coordonnées':
+        - 'Monde normal': 'coordonnees/coordonnees_normal.md'
+        - 'Nether': 'coordonnees/coordonnees_nether.md'
+        - 'End': 'coordonnees/coordonnees_end.md'
+        - 'Créatif': 'coordonnees/coordonnees_creatif.md'
+    - 'Plugins & autres': 'plugins.md'
+
+theme:
+    name: material
+    icon:
+        repo: fontawesome/brands/github
+    logo: assets/pole_emploi.png
+    favicon: assets/pole_emploi.png
+    palette: 
+        # Palette toggle for dark mode
+        scheme: slate
+
+plugins:
+    - search
+    - git-revision-date-localized:
+        enable_creation_date: true
+        type: iso_datetime
+        fallback_to_build_date: true
