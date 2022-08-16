@@ -1,38 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://banaanuts.github.io/ChomageLand-Web/</loc>
-         <lastmod>2022-08-10</lastmod>
+         <loc>https://chomageland.fr/</loc>
+         <lastmod>2022-08-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://banaanuts.github.io/ChomageLand-Web/general/</loc>
-         <lastmod>2022-08-10</lastmod>
+         <loc>https://chomageland.fr/general/</loc>
+         <lastmod>2022-08-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://banaanuts.github.io/ChomageLand-Web/plugins/</loc>
-         <lastmod>2022-08-10</lastmod>
+         <loc>https://chomageland.fr/plugins/</loc>
+         <lastmod>2022-08-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://banaanuts.github.io/ChomageLand-Web/coordonnees/coordonnees_creatif/</loc>
-         <lastmod>2022-08-10</lastmod>
+         <loc>https://chomageland.fr/coordonnees/coordonnees_creatif/</loc>
+         <lastmod>2022-08-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://banaanuts.github.io/ChomageLand-Web/coordonnees/coordonnees_end/</loc>
-         <lastmod>2022-08-10</lastmod>
+         <loc>https://chomageland.fr/coordonnees/coordonnees_end/</loc>
+         <lastmod>2022-08-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://banaanuts.github.io/ChomageLand-Web/coordonnees/coordonnees_nether/</loc>
-         <lastmod>2022-08-10</lastmod>
+         <loc>https://chomageland.fr/coordonnees/coordonnees_nether/</loc>
+         <lastmod>2022-08-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://banaanuts.github.io/ChomageLand-Web/coordonnees/coordonnees_normal/</loc>
-         <lastmod>2022-08-10</lastmod>
+         <loc>https://chomageland.fr/coordonnees/coordonnees_normal/</loc>
+         <lastmod>2022-08-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
