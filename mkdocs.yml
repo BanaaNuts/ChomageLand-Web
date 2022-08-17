@@ -34,6 +34,7 @@ plugins:
         fallback_to_build_date: true
 
 markdown_extensions:
-  - pymdownx.emoji:
-      emoji_index: !!python/name:materialx.emoji.twemoji 
-      emoji_generator: !!python/name:materialx.emoji.to_svg
+    - tables
+    - pymdownx.emoji:
+        emoji_index: !!python/name:materialx.emoji.twemoji 
+        emoji_generator: !!python/name:materialx.emoji.to_svg
