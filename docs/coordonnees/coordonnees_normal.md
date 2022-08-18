@@ -1,7 +1,10 @@
 #Coordonnées du monde normal
 
-Liste des coordonnées importantes dans le monde normal et leur portail associé dans le reseau de glace du Nether. Si le portail correspondant existe dans le réseau, sa référence est indiqué. Si il existe hors-réseau, ses coordonnées sont indiqués. Si aucun portail n'existe, la mention `Néant` est apposée.  
-Les coordonnées sont au format `X / Y / Z` ou `X / Z`.
+Liste des coordonnées importantes dans le monde normal et leur portail associé dans le réseau de glace du Nether. Si le portail correspondant existe dans le réseau, sa référence est indiqué. Si il existe hors-réseau, ses coordonnées sont indiqués. Si aucun portail n'existe, la mention `Néant` est apposée. Les coordonnées sont au format `X / Y / Z` ou `X / Z`. 
+
+!!! attention
+
+    Si les coordonnées du portail du Nether ont un `Y` supérieur ou égal à 128, c'est qu'il se situe sur le toit du Nether ! Le toit du Nether est accessible depuis le Hub.
 
 ## Habitations
 
@@ -34,25 +37,54 @@ Les coordonnées sont au format `X / Y / Z` ou `X / Z`.
 | Lieu | Coordonnées | Nether |
 |:-----|:-----------:|:------:|
 | Monument sous-marin | `172 / 5519` | `Sud-Est-2` |
-| Portail de l'End<br/>- [activé, aménagé]<br/>- [désactivé] | <br/>`-848 / 6 / 2000`<br/>`-975 / 25 / -1405` | <br/>`Sud-Ouest-1`<br/>`?` |
-| Tours de Pillagers | `-328 / -2073`<br/>`-375 / -2200`<br/>`103 / 90 / 2263` | `?` |
+| Portail de l'End principal | `-848 / 6 / 2000` | `Sud-Ouest-1` |
+| Portail de l'End #2 | `-975 / 25 / -1405` | `?` |
 | Manoir | `-14776 / -8504` | `-1851 / 128 / -1056` |
 | Double spawner d'araignées des cavernes | `537 / 43 / 407` | `Néant` |
 | Hutte à sorcière | `-13243 / -8395` | `Néant` |
-| Temples du désert | `-869 / -1676`<br/>`-50 / -2035` | `Néant` |
-| Villages<br/>- [désert]<br/>-<br/>-<br/>- [abandonné]<br/>- [enneigé]<br/>- [plaine] | <br/>`536 / -1800`<br/>`-1035 / 1580`<br/>`955 / -444`<br/>`-2220 / 770`<br/>`-871 / -303`<br/>`-2918 / -2302` | <br/>`Néant` |
+| Temple du désert #1 | `-869 / -1676` | `Néant` |
+| Temple du désert #2 | `-50 / -2035` | `Néant` |
+
+### Tours de pillagers
+
+| Lieu | Coordonnées | Nether |
+|:-----|:-----------:|:------:|
+| Tour de pillagers #1 | `-328 / -2073` | `?` |
+| Tour de pillagers #2 | `-375 / -2200` | `?` |
+| Tour de pillagers #3 | `103 / 90 / 2263` | `?` |
+
+### Villages
+
+| Lieu | Coordonnées | Nether |
+|:-----|:-----------:|:------:|
+| Village #1 [désert] | `536 / -1800` | `Néant` |
+| Village #2 | `-1035 / 1580` | `Néant` |
+| Village #3 | `955 / -444` | `Néant` |
+| Village #4 [abandonné] | `-2220 / 770` | `Néant` |
+| Village #5 [enneigé] | `-871 / -303` | `Néant` |
+| Village #6 [plaine] | `-2918 / -2302` | `Néant` |
+
+
 
 ## Biomes
 
 | Lieu | Coordonnées | Nether |
 |:-----|:-----------:|:------:|
-| Grand océan<br/>Océan de corail | `172 / 5519`<br/>`1581 / -649` | `Néant` |
-| Canyon<br/>Jungle | `2947 / -445` | `368 / -56` |
+| Grand océan | `172 / 5519` | `Néant` |
+| Océan de corail | `1581 / -649` | `Néant` |
+| Canyon & Jungle | `2947 / -445` | `368 / -56` |
 | Biome champignon | `1800 / 2393` | `Sud-Est-1` |
 | Piques de glace (très exploité) | `?` | `Nord-Ouest-1` |
 | Forêt fleurie | `760 / 5233` | `Néant` |
-| Déserts<br/>- [moyen]<br/>- [petit]</br>- | <br/>`-869 / -1676`<br/>`-50 / -2035`<br/>`536 / -1800` | <br/>`Néant` |
 | Savanne | `148 / -2195` | `?` |
-| Forêts couvertes | `-1035 / 1580`<br/>`536 / -1800` | `Néant` |
+| Forêt couverte #1 | `-1035 / 1580` | `Néant` |
+| Forêt couverte #2 | `536 / -1800` | `Néant` |
+| Énorme biome montagne<br/>(jagged peaks, snowy slopes, grove) | `-17000 / -27000` | `-2125 / 128 / -3375` |
 
+### Déserts
 
+| Lieu | Coordonnées | Nether |
+|:-----|:-----------:|:------:|
+| Désert #1 [moyen] | `-869 / -1676` | `Néant` |
+| Désert #2 [petit] | `-50 / -2035` | `Néant` |
+| Désert #3 | `536 / -1800` | `Néant` |
