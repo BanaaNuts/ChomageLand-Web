@@ -13,11 +13,14 @@ nav:
         - 'Monde normal': 'coordonnees/coordonnees_normal.md'
         - 'Nether': 'coordonnees/coordonnees_nether.md'
         - 'End': 'coordonnees/coordonnees_end.md'
-        - 'Créatif': 'coordonnees/coordonnees_creatif.md'
+    - 'Commandes': 'commandes.md'
+    - 'Multiverse': 'multiverse.md'
     - 'Plugins & autres': 'plugins.md'
 
 theme:
     name: material
+    features:
+        - navigation.top
     icon:
         repo: fontawesome/brands/github
     logo: assets/pole_emploi.png
@@ -35,6 +38,11 @@ plugins:
 
 markdown_extensions:
     - tables
+    - admonition
+    - pymdownx.details
+    - pymdownx.superfences
     - pymdownx.emoji:
         emoji_index: !!python/name:materialx.emoji.twemoji 
         emoji_generator: !!python/name:materialx.emoji.to_svg
+    - toc:
+        permalink: true
