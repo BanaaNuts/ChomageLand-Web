@@ -8,13 +8,15 @@ edit_uri: edit/main/docs/
 
 nav:
     - 'Accueil': 'index.md'
-    - 'Général': 'general.md'
     - 'Coordonnées':
         - 'Monde normal': 'coordonnees/coordonnees_normal.md'
         - 'Nether': 'coordonnees/coordonnees_nether.md'
         - 'End': 'coordonnees/coordonnees_end.md'
     - 'Commandes': 'commandes.md'
     - 'Multiverse': 'multiverse.md'
+    - 'Guides':
+        - 'Optimisation': 'guides/optimisation.md'
+        - 'MultiMC': 'guides/multimc.md'
     - 'Plugins & autres': 'plugins.md'
 
 theme:
