@@ -1,6 +1,6 @@
 # Commandes
 
-De nombreuses commandes sont accessibles depuis le chat (touche 'T'). La plupart ne sont accessibles que depuis le monde créatif. Pour plus d'informations sur les commandes listées, se référer au [Wiki Minecraft](https://minecraft.fandom.com/fr/wiki/Commandes).
+De nombreuses commandes sont accessibles depuis le chat (touche `T`). La plupart ne sont accessibles que depuis le monde créatif. Pour plus d'informations sur les commandes listées, se référer au [Wiki Minecraft](https://minecraft.fandom.com/fr/wiki/Commandes).
 
 ??? info "Paramètres de commandes"
 
