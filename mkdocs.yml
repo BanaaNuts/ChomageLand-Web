@@ -25,8 +25,8 @@ theme:
         - navigation.top
     icon:
         repo: fontawesome/brands/github
-    logo: assets/pole_emploi.png
-    favicon: assets/pole_emploi.png
+    logo: img/pole_emploi.png
+    favicon: img/pole_emploi.png
     palette: 
         # Palette toggle for dark mode
         scheme: slate
@@ -43,6 +43,10 @@ markdown_extensions:
     - admonition
     - pymdownx.details
     - pymdownx.superfences
+    - pymdownx.snippets:
+        check_paths: true
+        base_path:
+        - docs/_snippets
     - pymdownx.emoji:
         emoji_index: !!python/name:materialx.emoji.twemoji 
         emoji_generator: !!python/name:materialx.emoji.to_svg
