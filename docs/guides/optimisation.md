@@ -12,7 +12,7 @@ Fabric est ce qu'on appelle un modloader. C'est un programme qui va permettre d'
 
 !!! question "D'autres modloaders ?"
 
-    Oui, il en existe d'autres. Fabric est relativement récent, et il encore en concurrence avec un autre rival bien connu: Forge. Si vous souhaitez modder lourdement votre jeu avec une plétore de mods et que votre machine le permet: c'est vers lui qu'il faudra plûtot se tourner, même si Fabric rattrape petit à petit son retard. Forge existe depuis 2011 et est le support d'un nombre tout bonne stratosphérique de mods tous plus variés les uns que les autres, certains étant devenu presque cultes.
+    Oui, il en existe d'autres. Fabric est relativement récent, et il est encore en concurrence avec un autre rival bien connu: Forge. Si vous souhaitez modder lourdement votre jeu avec une plétore de mods et que votre machine le permet: c'est vers lui qu'il faudra plûtot se tourner, même si Fabric rattrape petit à petit son retard. Forge existe depuis 2011 et est le support d'un nombre tout bonne stratosphérique de mods tous plus variés les uns que les autres, certains étant devenu presque cultes.
 
 1. **Télécharger l'installateur de fabric.** Si vous avez déjà installé Fabric auparavant, vous avez surement cet installateur qui traîne quelque part: c'est un fichier executable, il doit sûrement être dans le dossier `Téléchargements`. Si vous l'avez, ignorez cette première étape. Sinon, [téléchargez-le](https://fabricmc.net/use/).
  
