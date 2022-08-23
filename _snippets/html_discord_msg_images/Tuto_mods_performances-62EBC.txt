@@ -1,0 +1,16 @@
+Marche à suivre pour optimiser les performances du jeu pour que ça rame pas trop sa mère (sur serveur au moins), on va pour cela utiliser des mods (bouts de code additionels): 
+
+1. Télécharger Fabric: https://fabricmc.net/use/    => cliquer sur Download Installer (Windows/EXE)
+
+2. Installer Fabric: double-cliquez sur ce que vous venez de télécharger: pour "Version des mappings" séléctionnez "1.16.5": c'est la version de Minecraft que l'on va utiliser. Pour le reste ne changez rien. Cliquez sur "Installer" et suivez les instructions.
+
+3. Vérification: normalement si tout s'est bien installé, une nouvelle option est apparu dans votre launcher (le logiciel qui lance Minecraft): dans celui-ci quand vous le lancez, en bas, vous pouvez séléctionner la version de Minecraft: une ligne du genre "fabric-xxx..." est apparu: ça à fonctionné ! Vous pouvez continuer:
+
+4. Téléchargement des mods d'optimisation: accédez aux liens suivant, ils vont chacun lancer un téléchargement: gardez les fichiers téléchargés précieusement:
+- https://www.curseforge.com/minecraft/mc-mods/lithium/download/3215441
+- https://www.curseforge.com/minecraft/mc-mods/phosphor/download/3202749
+- https://www.curseforge.com/minecraft/mc-mods/sodium/download/3067101
+
+5. Installation des mods: appuyez simultanément sur les touches "Windows" (en bas à gauche du clavier) et la touche "R": une petite fenêtre apparaît: entrez "%appdata%" et appuyez sur "Ok". Le dossier "AppData" s'ouvre: dans celui-ci, allez dans le dossier ".minecraft" (le premier de la liste généralement) puis dans "Mods": dans ce dossier, mettez-y les 3 fichiers que vous avez téléchargés à l'étape précédente. Fermez le dossier, et le launcher si il était encore ouvert.
+
+6. Fin: normalement, les 3 mods ont bien étés installés ! En lancant le jeu, veillez-bien à séléctionnez la version "fabric-xxx-...".
