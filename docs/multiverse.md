@@ -10,7 +10,7 @@ Depuis l'installation du plugin Multiverse, le serveur est divisé en deux monde
 - Monde survie  
 - Monde créatif  
 Il est possible de voyager entre les deux. Pour cela plusieurs manières:  
-- Utilisation de commandes dans le chat (touche 'T')  
+- Utilisation de commandes dans le chat (touche `T`)  
 - Utilisation de la borne (cage d'obsidienne) située sur la place du village dans le monde survie  
 
 Les mondes survie et créatif n'ont rien en commun: stats (xp,...), position, seed, inventaire,.... Ils sont indépendants. Il existe un système de "warp" au sein du monde créatif: un warp est un endroit dans le monde créatif qui a été sauvegardé et qui est accessible depuis une commande.
