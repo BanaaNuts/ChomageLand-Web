@@ -62,4 +62,18 @@ Datapack ajoutant une tête pour tous les mobs du jeu (et plus !): ils ont tous 
 * 2021-03-02 15h45: Idée de serveur proposée sur Discord  
 
 ![Tout premier screenshot posté du serveur](img/premier_screenshot.png)
-Tout premier screenshot posté sur le groupe *On peut tout couper* le 2022-03-02 à 21h35.  
+Tout premier screenshot posté sur le groupe *on peut tout couper* le 2022-03-02 à 21h35.  
+
+### Messages de la première soirée du serveur
+
+Messages postés sur le groupe Discord *on peut tout couper* dans la soirée du 2 mars 2021.
+
+=== "HTML (avec images et mise en forme)"
+
+    [Cliquez-ici](_snippets/discord_msg_premiere_journee.html) pour accédez à la version imagée et mise en forme.
+
+=== "TXT (brut)"
+
+    ``` title="Messages de la première soirée sur Minecraft"
+    --8<-- "msg_discord_premiere_soiree.txt"
+    ```
