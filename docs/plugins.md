@@ -1,10 +1,10 @@
 # Plugins & autres
 
-Un plugin est un mod pour serveur utilisant le logiciel serveur Bukkit ou un de ses dérivés (Spigot, Paper, Purpur, etc.). C'est le cas de ChômageLand, qui dispose par ailleurs de nombreux plugins.  
+Un plugin est un mod pour serveur utilisant le logiciel serveur Bukkit ou un de ses dérivés (Spigot, Paper, Purpur, etc.). C'est le cas de ChômageLand, qui dispose par ailleurs de plusieurs plugins.  
 
 Un datapack est un type de mod qu'il est possible d'associer à un monde Minecraft en particulier pour en modifier le comportement. Ce type de mod, moins poussé que les autres, est supporté nativement par Minecraft et leur installation est très simple. Le monde survie de ChômageLand en possède plusieurs.
 
-Cette page liste également les spécifications techniques en vrac du serveur.  
+Cette page liste également les spécifications techniques en vrac du serveur ainsi qu'un historique.  
 
 ## Plugins
 
@@ -51,15 +51,15 @@ Datapack ajoutant une tête pour tous les mobs du jeu (et plus !): ils ont tous 
 
 ## Historique  
 
-* 2022-08-16: Acquisition du nom de domaine `chomageland.fr`, lancement officiel  
-* 2022-08-10: Création du site Web officiel  
-* 2022-07-23: Création et lancement du serveur Discord  
-* 2022-01-17: Lancement du Multiverse  
-* 2022-01-06: Changement de logiciel serveur (Purpur 1.18.1)  
-* 2021-08-08: Changement de logiciel serveur (Fabric 1.16.5)  
-* 2021-03-02 21h07: Lancement du serveur (Paper 1.16.5)  
-* 2021-03-02 19h57: Stessy propose de nommer le serveur en référence à Pôle Emploi
-* 2021-03-02 15h45: Idée de serveur proposée sur Discord  
+* **2022-08-16:** Acquisition du nom de domaine `chomageland.fr`, lancement officiel  
+* **2022-08-10:** Création du site Web officiel  
+* **2022-07-23:** Création et lancement du serveur Discord  
+* **2022-01-17:** Lancement du Multiverse  
+* **2022-01-06:** Changement de logiciel serveur (Purpur 1.18.1)  
+* **2021-08-08:** Changement de logiciel serveur (Fabric 1.16.5)  
+* **2021-03-02 21h07:** Lancement du serveur (Paper 1.16.5)  
+* **2021-03-02 19h57:** Stessy propose de nommer le serveur en référence à Pôle Emploi
+* **2021-03-02 15h45:** Idée de serveur proposée sur Discord  
 
 ![Tout premier screenshot posté du serveur](img/premier_screenshot.png)
 Tout premier screenshot posté sur le groupe *on peut tout couper* le 2022-03-02 à 21h35.  
@@ -70,7 +70,7 @@ Messages postés sur le groupe Discord *on peut tout couper* dans la soirée du 
 
 === "HTML (avec images et mise en forme)"
 
-    [Cliquez-ici](_snippets/discord_msg_premiere_journee.html) pour accédez à la version imagée et mise en forme.
+    [Cliquez-ici](_snippets/discord_msg_premiere_journee.html) pour accéder à la version imagée et mise en forme.
 
 === "TXT (brut)"
 
