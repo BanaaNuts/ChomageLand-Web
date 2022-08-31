@@ -42,7 +42,27 @@ De nombreuses commandes sont accessibles depuis le chat (touche `T`). La plupart
 
 ## Multiverse
 
-Voir [section Multiverse](multiverse.md#commandes).
+Voir [section Multiverse](multiverse.md#commandes).  
+
+## Monde survie  
+
+* `/tpa <joueur>`  
+Envoie une demande de téléportation à un joueur.  
+
+* `/tpahere <joueur>`  
+Envoie une proposition de téléportation sur soi à un joueur.  
+
+* `/tpahereall`  
+Envoie une proposition de téléportation sur soi à tout les joueurs.  
+
+* `/tpatoggle [joueur]`  
+Autorise/interdit les demandes de téléportations à soi, possibilité de paramétrer pour chaque joueur.  
+
+* `/tpaccept` | `/tpdeny`  
+Accepter/refuser la demande de téléportation à soi.  
+
+* `/tpcancel [joueur]`  
+Annule la demande de téléportation à un joueur.  
 
 ## Monde créatif
 
