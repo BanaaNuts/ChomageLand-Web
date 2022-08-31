@@ -9,13 +9,22 @@ Cette page liste également les spécifications techniques en vrac du serveur ai
 ## Plugins
 
 * `DiscordSRV`  
-Assure la liaison entre le serveur Minecraft et le serveur Discord.
+Assure la liaison entre le serveur Minecraft et le serveur Discord.  
 
 * `Multiverse-Core` `Multiverse-Inventories` `Multiverse-NetherPortals`  
-Implémente le système de mondes multiples et régule les intéractions entre ceux-ci.
+Implémente le système de mondes multiples et régule les intéractions entre ceux-ci.  
 
 * `LuckPerms`  
 Gestion des permissions.  
+
+* `DriveBackupV2`  
+Gestion des backups: upload quotidien d'un backup des mondes vers [ce dossier GDrive](https://drive.google.com/drive/folders/1Im9VETo0Q1LFncT_OWrib8QMgdzM0Oz-?usp=sharing).  
+
+* `SimpleTPA`  
+Ajout du `/tpa` pour se téléporter à un joueur.  
+
+* `TAB`  
+Personnalisation du menu TAB.  
 
 * `Maintenance`  
 Gestion des maintenances.  
@@ -43,19 +52,20 @@ Datapack ajoutant une tête pour tous les mobs du jeu (et plus !): ils ont tous 
 ## Spécifications techniques  
 
 * **Hébergeur**: PebbleHost - Formule Budget - 4GB  
-* **Logiciel serveur**: Purpur 1.18.1 (Build 1490)  
-* **Taille du monde survie**: 2,92 GiB (*au 2022-07-23*)  
+* **Logiciel serveur**: Purpur 1.19.2 (Build 1770)  
+* **Taille du monde survie**: 3,05 GiB (*au 2022-08-31*)  
 * **Seed du monde survie**: `-3096418578045786467`  
 * **Difficulté**: Normale  
 * **Distance de rendu**: 12 chunks  
 
 ## Historique  
 
+* **2022-08-31:** Changement de version (Purpur 1.19.2)  
 * **2022-08-16:** Acquisition du nom de domaine `chomageland.fr`, lancement officiel  
 * **2022-08-10:** Création du site Web officiel  
 * **2022-07-23:** Création et lancement du serveur Discord  
 * **2022-01-17:** Lancement du Multiverse  
-* **2022-01-06:** Changement de logiciel serveur (Purpur 1.18.1)  
+* **2022-01-06:** Changement de version (Purpur 1.18.1)  
 * **2021-08-08:** Changement de logiciel serveur (Fabric 1.16.5)  
 * **2021-03-02 21h07:** Lancement du serveur (Paper 1.16.5)  
 * **2021-03-02 19h57:** Stessy propose de nommer le serveur en référence à Pôle Emploi
