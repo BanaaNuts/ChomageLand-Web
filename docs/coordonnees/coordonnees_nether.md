@@ -10,7 +10,11 @@ Le Nether dispose d'un réseau de routes de glace permettant des déplacement fa
 
 !!! example "Exemple"
 
-    `Sud-Ouest-3` signifie direction Sud en partant du `Hub`, côté Ouest, 3ème sortie.
+    `Sud-Ouest-3` signifie direction Sud en partant du `Hub`, côté Ouest, 3ème sortie.  
+
+| Lieu | Coordonnées |
+|:-----|:-----------:|
+| Hub | `25 / 111 / 119` |
 
 ## Usines & fermes
 
