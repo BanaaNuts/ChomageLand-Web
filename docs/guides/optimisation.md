@@ -35,7 +35,7 @@ Fabric est ce qu'on appelle un modloader. C'est un programme qui va permettre d'
     | Mod | Description | Téléchargement |
     |:---:|:------------|:---------------|
     | Lithium | Optimisation générale | [1.16.5](https://modrinth.com/mod/lithium/version/mc1.16.5-0.6.6) / [1.18.1](https://modrinth.com/mod/lithium/version/mc1.18.1-0.7.8) / [1.19.2](https://modrinth.com/mod/lithium/version/mc1.19.2-0.8.3) |
-    | Sodium | Optimisation générale | [1.16.5](https://modrinth.com/mod/sodium/version/mc1.16.5-0.2.0) / [1.18.1](https://modrinth.com/mod/sodium/version/mc1.18.1-0.4.0-alpha6) / [1.19.2](https://modrinth.com/mod/sodium/version/mc1.19.2-0.4.3) |
+    | Sodium | Optimisation générale | [1.16.5](https://modrinth.com/mod/sodium/version/mc1.16.5-0.2.0) / [1.18.1](https://modrinth.com/mod/sodium/version/mc1.18.1-0.4.0-alpha6) / [1.19.2](https://modrinth.com/mod/sodium/version/mc1.19.2-0.4.4) |
     | Starlight (v1.17+) | Refonte du moteur de rendu de la lumière | [1.18.1](https://modrinth.com/mod/starlight/version/1.0.0%2B1.18.0-1.18.1) / [1.19.2](https://modrinth.com/mod/starlight/version/1.1.1%2B1.19) |
     | Phosphore (v1.16.5) | Optimisation du moteur de rendu de la lumière | [1.16.5](https://modrinth.com/mod/phosphor/version/mc1.16.2-0.8.0) |
     | LazyDFU (optionnel mais conseillé) | Diminution du temps de lancement de Minecraft | [1.16.5](https://modrinth.com/mod/lazydfu/version/0.1.1) / [1.18.1](https://modrinth.com/mod/lazydfu/version/0.1.2) / [1.19.2](https://modrinth.com/mod/lazydfu/version/0.1.3) |
