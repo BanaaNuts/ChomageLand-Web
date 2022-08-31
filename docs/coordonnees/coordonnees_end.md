@@ -23,8 +23,8 @@ A chaque portail en bordure de l'île principale correspond un portail en bordur
 
 | Lieu | Coordonnées |
 |:-----|:-----------:|
-| Portail #1 | `?` |
-| Portail #2 | `?` |
+| Portail #1 | `-1 / 75 / 96` |
+| Portail #2 | `0 / 75 / -96` |
 | Portail #3 | `Néant` |
 | Portail #4 | `Néant` |
 | Portail #5 | `Néant` |
@@ -50,8 +50,8 @@ A chaque portail en bordure de l'île principale correspond un portail en bordur
 
 | Lieu | Coordonnées |
 |:-----|:-----------:|
-| Portail #1 | `-16 / 1096` |
-| Portail #2 | `?` |
+| Portail #1 | `-17 / 69 / 1096` |
+| Portail #2 | `-1 / 64 / -977` |
 | Portail #3 | `Néant` |
 | Portail #4 | `Néant` |
 | Portail #5 | `Néant` |
