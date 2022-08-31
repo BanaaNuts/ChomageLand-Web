@@ -80,6 +80,7 @@ Liste des coordonnées importantes dans le monde normal et leur portail associé
 | Forêt couverte #1 | `-1035 / 1580` | `Néant` |
 | Forêt couverte #2 | `536 / -1800` | `Néant` |
 | Énorme biome montagne<br/>(jagged peaks, snowy slopes, grove) | `-17000 / -27000` | `-2125 / 128 / -3375` |
+| Cavernes de spéléothème (Dripstone caves) | `-9775 / 45 / 531` | `-1200 / 128 / 108` |  
 
 ### Déserts
 
