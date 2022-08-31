@@ -27,6 +27,12 @@ Dossier regroupant différentes captures d'écran du serveur.
 
 [:material-folder-google-drive: Captures d'écran ChômageLand](https://drive.google.com/drive/folders/1s-HHEOIIntSsore7n8LR6tjQgS2yB78T?usp=sharing){ .md-button .md-button--primary }  
 
+## Backups  
+
+Depuis le 2022-08-31, le serveur dispose d'un plugin assurant une sauvegarde (appelée backup) quotidienne des mondes survies et créatifs sur un [dossier GDrive](https://drive.google.com/drive/folders/1Im9VETo0Q1LFncT_OWrib8QMgdzM0Oz-?usp=sharing). Ce dossier est en libre accès et propose les backups des 3 derniers jours. Les backups sont effectués automatiquement chaque jour à 03h00.  
+
+[:material-folder-google-drive: Backups ChômageLand](https://drive.google.com/drive/folders/1Im9VETo0Q1LFncT_OWrib8QMgdzM0Oz-?usp=sharing){ .md-button .md-button--primary }  
+
 ## YouTube  
 
 ### Playlist usines & co
