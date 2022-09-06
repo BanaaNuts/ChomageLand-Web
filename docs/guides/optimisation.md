@@ -4,7 +4,7 @@ Optimiser Minecraft quand on a un PC pas ouf est indispensable. Pour ce faire, i
 
 !!! tip "MultiMC"
 
-    MultiMC est launcher alternatif crée par et pour la communauté. Il permet la création d'instances séparées très simplement et facilite grandement l'exécution du guide ci-dessous. En effet, avec MultiMC, il est bien plus simple d'installer Fabric par exemple (un seul boutton à appuyer !) ou encore de gérer ses mods (chaque version à son propre dossier `mods`, de même que son propre dossier `resourcepacks`, etc.). Avec MultiMC, on ne s'emmêle plus les pinceaux ! L'installation de ce launcher est très simple: suivez le [guide](multimc.md), et facilitez-vous la vie !
+    MultiMC est un launcher alternatif crée par et pour la communauté. Il permet la création d'instances séparées très simplement et facilite grandement l'exécution du guide ci-dessous. En effet, avec MultiMC, il est bien plus simple d'installer Fabric par exemple (un seul boutton à appuyer !) ou encore de gérer ses mods (chaque version à son propre dossier `mods`, de même que son propre dossier `resourcepacks`, etc.). Avec MultiMC, on ne s'emmêle plus les pinceaux ! L'installation de ce launcher est très simple: suivez le [guide](multimc.md), et facilitez-vous la vie !
 
 ## Fabric et les mods
 
