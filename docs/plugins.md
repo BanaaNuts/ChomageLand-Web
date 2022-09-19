@@ -60,10 +60,13 @@ Datapack ajoutant une tête pour tous les mobs du jeu (et plus !): ils ont tous 
 
 ## Historique  
 
+* **2022-09-13:** Premier tronçon du métropolitain terminé (Centre-ville <-> Vieux-chêne)  
+* **2022-09-02:** Début de la construction du métropolitain  
 * **2022-08-31:** Changement de version (Purpur 1.19.2)  
 * **2022-08-16:** Acquisition du nom de domaine `chomageland.fr`, lancement officiel  
 * **2022-08-10:** Création du site Web officiel  
 * **2022-07-23:** Création et lancement du serveur Discord  
+* **2022-07-22:** Début du projet de métropolitain  
 * **2022-01-17:** Lancement du Multiverse  
 * **2022-01-06:** Changement de version (Purpur 1.18.1)  
 * **2021-08-08:** Changement de logiciel serveur (Fabric 1.16.5)  
