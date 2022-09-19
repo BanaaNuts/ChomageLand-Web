@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="186.25426mm"
+   height="186.25424mm"
+   viewBox="0 0 186.25426 186.25424"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="ligne1.svg"
+   inkscape:export-filename="ligne3.svg"
+   inkscape:export-xdpi="17.455709"
+   inkscape:export-ydpi="17.455709"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.5946522"
+     inkscape:cx="389.30319"
+     inkscape:cy="551.58292"
+     inkscape:window-width="1680"
+     inkscape:window-height="987"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-13.029656,-56.689196)">
+    <circle
+       style="display:inline;fill:#00a700;fill-opacity:1;stroke-width:0.297782"
+       id="path115"
+       cy="149.81631"
+       cx="106.15678"
+       r="93.127121" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:138.415px;font-family:Rubik;-inkscape-font-specification:'Rubik Bold';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.720909"
+       x="106.77969"
+       y="197.56949"
+       id="text6520"
+       inkscape:transform-center-x="21.598928"
+       inkscape:transform-center-y="-2.6341846"><tspan
+         id="tspan6518"
+         style="stroke-width:0.720909"
+         x="106.77969"
+         y="197.56949"
+         sodipodi:role="line">3</tspan></text>
+  </g>
+</svg>
