@@ -60,6 +60,8 @@ Datapack ajoutant une tête pour tous les mobs du jeu (et plus !): ils ont tous 
 
 ## Historique  
 
+* **2022-10-0X:** Début de la deuxième phase de creusage du périmètre (couches 0-5)  
+* **2022-09-20:** Ligne 1 du métropolitain achevée  
 * **2022-09-13:** Premier tronçon du métropolitain terminé (Centre-ville <-> Vieux-chêne)  
 * **2022-09-02:** Début de la construction du métropolitain  
 * **2022-08-31:** Changement de version (Purpur 1.19.2)  
@@ -70,6 +72,8 @@ Datapack ajoutant une tête pour tous les mobs du jeu (et plus !): ils ont tous 
 * **2022-01-17:** Lancement du Multiverse  
 * **2022-01-06:** Changement de version (Purpur 1.18.1)  
 * **2021-08-08:** Changement de logiciel serveur (Fabric 1.16.5)  
+* **2021-05-0X:** Fin de la première phase de creusage du périmètre (couches 5-64)  
+* **2021-04-16:** Début du projet de périmètre (trou de 16*16 chunks)  
 * **2021-03-02 21h07:** Lancement du serveur (Paper 1.16.5)  
 * **2021-03-02 19h57:** Stessy propose de nommer le serveur en référence à Pôle Emploi
 * **2021-03-02 15h45:** Idée de serveur proposée sur Discord  
