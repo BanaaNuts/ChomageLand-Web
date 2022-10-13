@@ -4,7 +4,7 @@ Le Métropolitain de ChômageLand est un réseau de métro situé dans le monde 
 
 ## Plan  
 
-![Plan du métro](/img/metro/plan%20métro%20v2.3%20comp.jpg)
+![Plan du métro](/img/metro/plan%20métro%20v3.0.png)
 
 ## Lignes  
 
@@ -13,16 +13,21 @@ Le Métropolitain de ChômageLand est un réseau de métro situé dans le monde 
 | Station | Correspondance | Points d'intérêts |
 |---------|----------------|-------------------|
 | **Centre-ville** | Aucune | Place du village, marché aux villageois, CDI, Tour/bar à Thomas |
-| **Vieux-chêne** | Aucune | Arbre à Mathis, Ferme à fleur de chorus, Fermes à citrouilles/pastèques, Usine à laine, Méga-Four |
+| **Vieux chêne** | Aucune | Arbre à Mathis, Ferme à fleur de chorus, Fermes à citrouilles/pastèques, Usine à laine, Méga-Four |
 | **Alpha** | Aucune | Ferme à Chorus, Château d'Elsa, Usine à laine, Méga-Four |
 | **Industries** | :custom-ligne2: *(futur)* | Usine à fer, Ferme à bois, Convertisseur de poudre |
-| ***(station future)*** | :custom-ligne2: *(futur)* | Aucun |  
+| **Baie royale** | :custom-ligne2: *(futur)* | Aucun |  
+
+
+!!! attention
+
+    Les informations qui suivent ne sont pas définitives et sont donc susceptibles de changer.  
 
 *(futur)* :custom-ligne2: La ligne 2 visera à désservir les lieux périphériques au village.  
 
 | Station | Correspondance | Points d'intérêts |
 |---------|----------------|-------------------|
-| ***(station future)*** [TERMINUS] | :custom-ligne1: | Aucun |
+| **Baie royale** [TERMINUS] | :custom-ligne1: | Aucun |
 | ***(station future)*** | Aucune | Domaine de Stessy |
 | ***(station future)*** | Aucune | Dé à coudre |
 | ***(station future)*** | :custom-ligne3: *(futur)* | Départ du circuit de glace |
@@ -43,5 +48,5 @@ Le Métropolitain de ChômageLand est un réseau de métro situé dans le monde 
 |---------|----------------|-------------------|
 | ***(station future)*** | Aucun | Périmètre coin nord-est |
 | ***(station future)*** | :custom-ligne3: *(futur)* | Périmètre coin sud-est |
-| ***(station future)*** | Aucune | Périmètre coin sud-ouest |
+| ***(station future)*** | Aucun | Périmètre coin sud-ouest |
 | ***(station future)*** | :custom-ligne3: *(futur)* | Périmètre coin nord-ouest |  
