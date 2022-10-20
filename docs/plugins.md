@@ -52,7 +52,7 @@ Datapack ajoutant une tête pour tous les mobs du jeu (et plus !): ils ont tous 
 ## Spécifications techniques  
 
 * **Hébergeur**: PebbleHost - Formule Budget - 4GB  
-* **Logiciel serveur**: Purpur 1.19.2 (Build 1770)  
+* **Logiciel serveur**: Purpur 1.19.2 (Build 1825)  
 * **Taille du monde survie**: 3,05 GiB (*au 2022-08-31*)  
 * **Seed du monde survie**: `-3096418578045786467`  
 * **Difficulté**: Normale  
@@ -60,11 +60,12 @@ Datapack ajoutant une tête pour tous les mobs du jeu (et plus !): ils ont tous 
 
 ## Historique  
 
+* **2022-10-20:** Mise à jour de logiciel serveur (Purpur 1.19.2 build 1825)
 * **2022-10-0X:** Début de la deuxième phase de creusage du périmètre (couches 0-5)  
 * **2022-09-20:** Ligne 1 du métropolitain achevée  
 * **2022-09-13:** Premier tronçon du métropolitain terminé (Centre-ville <-> Vieux-chêne)  
 * **2022-09-02:** Début de la construction du métropolitain  
-* **2022-08-31:** Changement de version (Purpur 1.19.2)  
+* **2022-08-31:** Changement de version (Purpur 1.19.2 build 1770)  
 * **2022-08-16:** Acquisition du nom de domaine `chomageland.fr`, lancement officiel  
 * **2022-08-10:** Création du site Web officiel  
 * **2022-07-23:** Création et lancement du serveur Discord  
