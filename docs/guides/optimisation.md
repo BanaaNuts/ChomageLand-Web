@@ -2,9 +2,9 @@
 
 Optimiser Minecraft quand on a un PC pas ouf est indispensable. Pour ce faire, il est possible d'installer des mods (bouts de code additionnels créés par la communauté pour modifier le jeu) qui vont fluidifier le jeu et lui permettre de tourner correctement. Il est également possible de réaliser quelques autres optimisations fort sympatique. Suivez les différentes parties comprises dans ce guide pour exploiter le plein potentiel de votre machine !  
 
-!!! tip "MultiMC"
+!!! tip "Prism"
 
-    MultiMC est un launcher alternatif crée par et pour la communauté. Il permet la création d'instances séparées très simplement et facilite grandement l'exécution du guide ci-dessous. En effet, avec MultiMC, il est bien plus simple d'installer Fabric par exemple (un seul boutton à appuyer !) ou encore de gérer ses mods (chaque version à son propre dossier `mods`, de même que son propre dossier `resourcepacks`, etc.). Avec MultiMC, on ne s'emmêle plus les pinceaux ! L'installation de ce launcher est très simple: suivez le [guide](multimc.md), et facilitez-vous la vie !
+    Prism est un launcher alternatif crée par et pour la communauté. Il permet la création d'instances séparées très simplement et facilite grandement l'exécution du guide ci-dessous. En effet, avec Prism, il est bien plus simple d'installer Fabric et des mods par exemple (un seul boutton à appuyer ! Et chaque version à son propre dossier `mods`, de même que son propre dossier `resourcepacks`, etc.). Avec Prism, on ne s'emmêle plus les pinceaux ! L'installation de ce launcher est très simple: suivez le [guide](prism.md), et facilitez-vous la vie ! Si vous optez pour Prism, tout ce guide d'installation de Fabric et des mods associés et inutile puisque tout cela s'installe en quelques clics. Notez seulement la liste des mods recommandés et installez-les dans Prism.  
 
 ## Fabric et les mods
 

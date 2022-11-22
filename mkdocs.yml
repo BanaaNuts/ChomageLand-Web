@@ -17,7 +17,7 @@ nav:
     - 'Multiverse': 'multiverse.md'
     - 'Guides':
         - 'Optimisation': 'guides/optimisation.md'
-        - 'MultiMC': 'guides/multimc.md'
+        - 'Prism': 'guides/prism.md'
     - 'Plugins & autres': 'plugins.md'
     - 'Ressources': 'ressources.md'
 

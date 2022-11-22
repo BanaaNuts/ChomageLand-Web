@@ -49,6 +49,9 @@ Permet de trouver la workstation de n’importe quel villageois.
 * `AllMobsHeads`  
 Datapack ajoutant une tête pour tous les mobs du jeu (et plus !): ils ont tous une probabilité de la dropper à leur mort, attrapez-les toutes !  
 
+* `Durability Ping`  
+Alerte le joueur quand une des ses pièces d'armure ou de ses outils est proche de casser.  
+
 ## Spécifications techniques  
 
 * **Hébergeur**: PebbleHost - Formule Budget - 4GB  
