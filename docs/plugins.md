@@ -1,4 +1,4 @@
-# Plugins & autres
+# Plugins & autres  
 
 Un plugin est un mod pour serveur utilisant le logiciel serveur Bukkit ou un de ses dérivés (Spigot, Paper, Purpur, etc.). C'est le cas de ChômageLand, qui dispose par ailleurs de plusieurs plugins.  
 
