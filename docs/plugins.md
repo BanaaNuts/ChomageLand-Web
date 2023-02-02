@@ -65,7 +65,7 @@ Alerte le joueur quand une des ses pièces d'armure ou de ses outils est proche 
 
 * **2022-10-20:** Mise à jour de logiciel serveur (Purpur 1.19.2 build 1825)
 * **2022-10-0X:** Début de la deuxième phase de creusage du périmètre (couches 0-5)  
-* **2022-09-20:** Ligne 1 du métropolitain achevée  
+* **2022-09-20:** Ligne 1 (première version) du métropolitain achevée  
 * **2022-09-13:** Premier tronçon du métropolitain terminé (Centre-ville <-> Vieux-chêne)  
 * **2022-09-02:** Début de la construction du métropolitain  
 * **2022-08-31:** Changement de version (Purpur 1.19.2 build 1770)  
